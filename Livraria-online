@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dotchitwe - Livros em PDF</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 25px;
+            font-size: 18px;
+            color: #fff;
+            background-color: #333;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #555;
+        }
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            color: #777;
+        }
+        footer a {
+            color: #333;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Bem-vindo à livraria online</h1>
+        <h2>Livros em PDF, Comunidades de Leitores e Incentivo à Leitura</h2>
+    </header>
+
+    <div class="content">
+        <p>Aqui na Dotchitwe, acreditamos que a leitura pode transformar vidas. Explore nossa coleção de livros em PDF e junte-se à nossa comunidade de leitores apaixonados!</p>
+        <a href="mailto:dotchitwe@gmail.com" class="cta-button">Comprar Livros em PDF</a>
+    </div>
+
+    <footer>
+        <p>Entre em contato:</p>
+        <p>Email: <a href="mailto:dotchitwe@gmail.com">dotchitwe@gmail.com</a> | WhatsApp: 950943179 | Tel: 933090319</p>
+        <p><a href="https://www.instagram.com/dotchitwe?igsh=MXczMTNjanhic3Y1MQ==">Instagram</a></p>
+    </footer>
+
+</body>
+</html>
